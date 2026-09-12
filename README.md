@@ -13,13 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=ranaumarbilal31&amp;label=PROFILE+VIEWS&amp;color=7851c9&amp;style=for-the-badge" alt="Profile views counter">
 </p>
 
-<p align="center">
-  <strong>SELECT A QUEST</strong><br>
-  <a href="#featured-quests">🎮 Projects</a> &nbsp; · &nbsp;
-  <a href="#tech-stack">🧰 Tech Stack</a> &nbsp; · &nbsp;
-  <a href="#bonus-level">✨ Bonus</a>
-</p>
-
 ---
 
 Welcome to my little corner of GitHub. My projects explore how AI and software can turn an idea into something.
