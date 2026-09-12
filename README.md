@@ -4,7 +4,7 @@
 
 <h1 align="center">Rana Umar Bilal</h1>
 
-<p align="center"><strong>Building AI experiments and playful web experiences.</strong></p>
+<p align="center"><strong>Builder of things that matter.</strong></p>
 <p align="center">
   <img src="assets/typing-roles.svg" width="560" alt="Full-Stack Developer | ML &amp; Computer Vision | Google Certified Data Analyst">
 </p>
