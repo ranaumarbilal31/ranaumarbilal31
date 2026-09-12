@@ -15,6 +15,8 @@
 
 ---
 
-Welcome to my little corner of GitHub. My projects explore how AI and software can turn an idea into something.
+<p align="center">
+  Welcome to my little corner of GitHub. My projects explore how AI and software can turn an idea into something.
+</p>
 
 <p align="center">Thanks for stopping by.<br><a href="https://github.com/ranaumarbilal31?tab=repositories">Browse all repositories →</a></p>
